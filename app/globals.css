@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-[#372B29] font-sans text-[#ffac16] antialiased;
+  }
+}
